@@ -6,16 +6,13 @@ header-img: "img/green.jpg"
 ---
 
 
-<center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
-</center>
 
-###写我所想
+### 写我所想
 
 我是Shera，想通过写作，记录自己成长和改变。
 
 
-###关注领域
+### 关注领域
 
 终身学习者，专注自我实践，黑客大脑
 精通者如何成长为专家
@@ -23,12 +20,12 @@ header-img: "img/green.jpg"
 家庭资产的理财和规划 。
 
 
-###对我人生有转折性影响的人
+### 对我人生有转折性影响的人
 
 - [阳志平](http://www.yangzhiping.com/)
 
 
-###我的关注
+### 我的关注
 
 - [安猪](http://caos.me)
 - [大妈](http://zoomquiet.io/)
@@ -36,10 +33,9 @@ header-img: "img/green.jpg"
 - [Oliver Ding](http://swordi.org/)
 - [元认知](http://www.mesule.com/)
 
-###联系
+### 联系
 
 - [博客：www.sherahouse.com](www.sherahouse.com)
-
 - 公众号：Sherahouse
 
 
