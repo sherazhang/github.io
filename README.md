@@ -4,7 +4,7 @@
 
 此博客 fork 自 [cnfeat](http://cnfeat.com)，感谢。
 
-## 读立写生
+## 写我所想
 
 我是Shera，博客：[sherahouse](sherahouse.com)
 
