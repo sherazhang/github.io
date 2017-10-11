@@ -6,7 +6,7 @@
 
 ## 写我所想
 
-我是Shera，博客：[sherahouse](sherahouse.com)
+我是Shera，博客：[sherahouse](http://sherahouse.com)
 
 想通过写作，记录自己成长和改变。
 当前准备报阳志平老师 **认知写作学** 。
