@@ -35,7 +35,7 @@ header-img: "img/green.jpg"
 
 ### 联系
 
-- [博客：www.sherahouse.com](www.sherahouse.com)
+- [博客](http://www.sherahouse.com)
 - 公众号：Sherahouse
 
 
