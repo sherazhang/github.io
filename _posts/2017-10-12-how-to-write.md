@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hello word!
+title: hello world!
 date: 2017-10-11
 categories: blog
 tags: [总结]
