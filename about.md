@@ -32,6 +32,7 @@ header-img: "img/green.jpg"
 - [陈露](http://actionthinker.com/aboutme/)
 - [Oliver Ding](http://swordi.org/)
 - [元认知](http://www.mesule.com/)
+- [edge](https://www.edge.org/)
 
 ### 联系
 
