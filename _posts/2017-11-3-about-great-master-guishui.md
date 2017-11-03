@@ -1,22 +1,14 @@
 ---
 layout: post
-<<<<<<< HEAD:_posts/2017-11-3-about-great-master-guishui.md
 title: 文学大师-顾随
-date: 2017-11-02
-=======
-title: 文学大家-顾随
 date: 2017-10-03
->>>>>>> f81634f78b0b5bd05295a5ec2731f3f65612a63e:_posts/2017-11-3-about-great-master-gushui.md
 categories: blog
 tags: [开智正典]
 description: 进一寸有进一寸的欢喜。
 ---
 
-<<<<<<< HEAD:_posts/2017-11-3-about-great-master-guishui.md
 
 
-=======
->>>>>>> f81634f78b0b5bd05295a5ec2731f3f65612a63e:_posts/2017-11-3-about-great-master-gushui.md
 ### 顾随简介
 * 顾随（1897—1960），本名顾宝随，字羡季，笔名苦水，别号驼庵，河北清河县人。
 * 中国韵文、散文作家，理论批评家，美学鉴赏家，讲授艺术家，禅学家，书法家，文化学术研著专家。
