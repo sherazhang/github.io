@@ -33,6 +33,7 @@ header-img: "img/green.jpg"
 - [Oliver Ding](http://swordi.org/)
 - [元认知](http://www.mesule.com/)
 - [edge](https://www.edge.org/)
+- [51credit](https://bbs.51credit.com/)
 
 ### 联系
 
